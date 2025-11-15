@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>星芒下载站</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
     <meta name="keywords" content="星芒下载站">
     <link rel="shortcut icon" href="https://vip.123pan.cn/1832150722/yk6baz03t0n000d7w33gzr20dllunnpiDIYwDqeyDdUvDpxPAdDxDF==.png" type="image/x-icon" /> 
 </head>
@@ -116,7 +116,7 @@
             ?>
         </div>
     </div>
-    <script src="script.js"></script>
+    <script src="js/script.js"></script>
     <footer class="footer">
         <div class="footer-info">
             <span>友情链接：</span>
@@ -133,7 +133,7 @@
             <img class="logos" src="https://ico.starlumina.com/备案图标.png" width="15" height="15">
             <a href="https://beian.mps.gov.cn/#/query/webSearch?code=51019002007728" target="_blank">川公网安备51019002007728号</a>
         </div>
-        <div class="copyright">© <span id="current-year"></span> 星芒工具箱 版权所有</div>
+        <div class="copyright">© <span id="current-year"></span> <a href="https://about.starlumina.com" target="_blank">胡黄成霖</a> 版权所有</div>
     </footer>
 </body>
 </html>

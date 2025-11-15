@@ -45,7 +45,7 @@ if ($parentPath === '.') {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>预览: <?php echo htmlspecialchars($fileName); ?></title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
     <style>
         /* 预览页面特定样式 */
         .header {
@@ -245,7 +245,7 @@ if ($parentPath === '.') {
         }
     }
     ?>
-    <script src="script.js"></script>
+    <script src="js/script.js"></script>
     <script>
         // 预览页面特定的交互效果
         document.addEventListener('DOMContentLoaded', function() {
